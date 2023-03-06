@@ -10,7 +10,6 @@ public class TooLargeTooSmall {
                 Integer compRand = rand.nextInt(upper);
                 Integer maxGuesses = 7;
 
-                boolean sameNum = false;
                 Integer prevNum = 0;
                 Integer currentNum = 0;
 
